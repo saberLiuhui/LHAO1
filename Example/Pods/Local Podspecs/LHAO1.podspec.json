@@ -1,0 +1,22 @@
+{
+  "name": "LHAO1",
+  "version": "0.1.0",
+  "summary": "A short description of LHAO1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuhui/LHAO1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liuhui": "liuhui37@zuoyebang.com"
+  },
+  "source": {
+    "git": "https://github.com/liuhui/LHAO1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LHAO1/Classes/**/*"
+}

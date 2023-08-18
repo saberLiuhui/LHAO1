@@ -1,0 +1,6 @@
+framework module LHAO1 {
+  umbrella header "LHAO1-umbrella.h"
+
+  export *
+  module * { export * }
+}
