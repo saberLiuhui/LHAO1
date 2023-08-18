@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'LHAO1_Example' do
+  pod 'LHAO1', :path => '../'
+
+  target 'LHAO1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
